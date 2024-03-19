@@ -2,4 +2,4 @@
 - 👀 I’m interested in ReactJS, NodeJS, Linux and Debian
 - 🌱 I’m currently learning Web developement
 - 💞️ I’m looking to collaborate on creating some fun and cool website 
-- 📫 How to reach me at www.theanuragverma@gmail.com
+- 📫 Reach me at www.theanuragverma@gmail.com
