@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anurag-verma-india
-- 👀 I’m interested in ReactJS, NodeJS, Linux and Debian
+- 👀 I’m interested in ReactJS, NodeJS, and Linux
 - 🌱 I’m currently learning Web developement
 - 💞️ I’m looking to collaborate on creating some fun and cool website 
 - 📫 Reach me at www.theanuragverma@gmail.com
