@@ -2,5 +2,5 @@
 - 👀 I’m interested in ReactJS, NodeJS, and Linux
 - 🌱 I’m currently learning Web developement
 - 💞️ I’m looking to collaborate on creating some fun and cool website 
-- 📫 Reach me at www.theanuragverma@gmail.com
+- 📫 Reach me at work.anurag.verma@gmail.com
 - 💻 Recent Project I created: [Instagram Clone](https://insta-clone-by-anurag.vercel.app/)
