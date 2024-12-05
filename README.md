@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anurag-verma-india
 - 👀 I’m interested in ReactJS, NodeJS, and Linux
-- 🌱 I’m currently learning Web developement
-- 💞️ I’m looking to collaborate on creating some fun and cool website 
+- 🌱 I’m currently learning working in web development
+- 💞️ I’m looking to collaborate on making any cool project (better if it's somehow related to web dev)
 - 📫 Reach me at work.anurag.verma@gmail.com
 - 💻 Recent Projects I created: [Instagram Clone](https://insta-clone-by-anurag.vercel.app/) , [Modi AI Voiced Spotify](https://modi-fy.netlify.app/)
