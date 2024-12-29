@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning working in web development
 - 💞️ I’m looking to collaborate on making any cool project (better if it's somehow related to web dev)
 - 📫 Reach me at work.anurag.verma@gmail.com
-- 💻 Recent Projects I created: [Instagram Clone](https://insta-clone-by-anurag.vercel.app/) , [Modi AI Voiced Spotify](https://modi-fy.netlify.app/)
+- 💻 Recent Projects I created: [Instagram Clone](https://insta-clone-by-anurag.vercel.app/) , [Eisenhower Matrix web app](http://supertaskmaster.vercel.app/) , [Modi AI Voiced Spotify](https://modi-fy.netlify.app/)
